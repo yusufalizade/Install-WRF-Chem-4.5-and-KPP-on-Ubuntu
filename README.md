@@ -20,7 +20,7 @@ It is also possible to install WRF-Chem line-by-line. For this, you can open the
 
 At the end of the code, there are important links and references. You can use them to learn more about WRF-Chem.
 
-Please do not hesitate to contact us if you have any questions. I started the coding with my contact details. 
+Please do not hesitate to contact me if you have any questions. I started the coding with my contact details. 
 
 
 
