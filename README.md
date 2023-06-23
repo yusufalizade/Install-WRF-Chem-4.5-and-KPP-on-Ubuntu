@@ -1,0 +1,2 @@
+# Install-WRF-Chem-4.5-and-KPP-on-Ubuntu
+ This shell script helps the WRF-Chem users to install the Weather Research and Forecasting (WRF) model coupled with Chemistry (WRF-Chem) version 4.5 and Kinetic PreProcessor (KPP) on Ubuntu 22.04.2 LTS in 64-bit system. It is necessary to install basic and required libraries including HDF5, NetCDF-C, NetCDF-Fortran, Jasper, Libpng, Zlib and MPICH before the installation of the WRF-Chem.  
