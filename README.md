@@ -2,7 +2,7 @@
 
 WRF-Chem is the Weather Research and Forecasting (WRF) model coupled with Chemistry. The development of WRF-Chem is a collaborative effort among the community. NOAA/ESRL scientists are the leaders and caretakers of the code. The official WRF-Chem web page is located at the NOAA website. 
 
-This shell script assists WRF-Chem users in installing the Weather Research and Forecasting (WRF) model coupled with Chemistry (WRF-Chem) version 4.5 and Kinetic PreProcessor (KPP) on a 64-bit Ubuntu 22.04.2 LTS system. Before installing WRF-Chem, the fundamental and required libraries such as Zlib, HDF5, NetCDF-C, NetCDF-Fortran, Jasper, Libpng, and MPICH must be installed. 
+This shell script assists WRF-Chem users in installing the Weather Research and Forecasting (WRF) model coupled with Chemistry (WRF-Chem) version 4.5 and Kinetic PreProcessor (KPP) on a 64-bit Ubuntu 22.04.2 LTS system. Before installing WRF-Chem, the fundamental and required libraries such as Zlib, HDF5, NetCDF-C, NetCDF-Fortran, Jasper, Libpng, and MPICH must be installed. All required settings, libraries, WRF-Chem and WRF Pre-Processing System (WPS) will be installed automatically using this code.
 
 Download this code to your computer and activate it with one of the following terminal commands:
 
